@@ -28,9 +28,11 @@ mainboard sata mod will require the removal of hdd sata connector and install of
 
 ![IMG20250116223840](https://github.com/user-attachments/assets/001b1dce-a42a-47b3-84c2-6d3ea470bab9)
 22 pin sata cable required
+
 ![satahd-x360fat](https://github.com/user-attachments/assets/b3865195-36cf-4053-bc72-b2a6677b1389)
 sata pinout after removing external port i recommend installing a ph2.0 5 or 7 pin connector but you could solder
 the cable directly to the board or possibly find a 7 pin sata port to suit
+
 ![post-56760-0-57592200-1433759657](https://github.com/user-attachments/assets/b436fb64-1845-428e-bc22-1619e0627bfc)
 hdd power from dvd connector red=5v yellow=12v pink=ground blue=needs to be looped to stop front light flashing
 
