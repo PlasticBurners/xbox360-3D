@@ -12,8 +12,8 @@ mainboard sata mod will require the removal of hdd sata connector and install of
 https://github.com/user-attachments/assets/31c8c842-27c8-49e2-be2c-fb790eb840b2
 
 
+![IMG20250116223840](https://github.com/user-attachments/assets/24d778dd-7396-472b-961a-5bc17c8101e6)
 
-![IMG20250116223840](https://github.com/user-attachments/assets/001b1dce-a42a-47b3-84c2-6d3ea470bab9)
 22 pin sata cable required
 
 ![satahd-x360fat](https://github.com/user-attachments/assets/b3865195-36cf-4053-bc72-b2a6677b1389)
