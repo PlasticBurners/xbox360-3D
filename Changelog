@@ -1,0 +1,19 @@
+****** V0.1 Alpha ******
+  initial build functional but requires some tweaking
+
+****** V0.2 Alpha ******
+  expanded hdmi port
+  raised sync button port by 4mm and remade sync button
+  raised rf port by 2mm 
+  modified hdd handle
+  modified hdd tray to align better with top cover
+  added a step to bottom mounts in main shell 
+  added 3mm x 3mm supports to top cover
+
+  ****** To Do in future releases ******
+  add more info on sata conversion
+  add more info on dvd power to hdd wireing and pinouts
+  build hdd tray for 2.5" drives
+  build dual 2.5" hdd tray - one hdd sata and one hdd using usb from mc ports
+  build branch that has dvd rom and external sata drive
+  build a slim branch
