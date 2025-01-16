@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/31c8c842-27c8-49e2-be2c-fb790eb840b2
 
 ![IMG20250116223840](https://github.com/user-attachments/assets/24d778dd-7396-472b-961a-5bc17c8101e6)
 
-22 pin sata cable required
+22 pin sata cable required  https://www.aliexpress.com/item/1005005911249527.html
 
 ![satahd-x360fat](https://github.com/user-attachments/assets/b3865195-36cf-4053-bc72-b2a6677b1389)
 sata pinout after removing external port i recommend installing a ph2.0 5 or 7 pin connector but you could solder
